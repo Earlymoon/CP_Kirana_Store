@@ -285,6 +285,9 @@ All API requests require Basic Authentication. Use the following credentials:
     }
     ```
 
+    ![Weekly Report](https://github.com/user-attachments/assets/9a565574-046e-4c8b-a739-01b0917e4a06)
+
+
 - **Authorization:** Requires `READ_WRITE` or `READ_ONLY` role.
 
 ---
