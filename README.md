@@ -200,10 +200,8 @@ https://github.com/user-attachments/assets/4c396a62-70ab-4fc4-ba40-7d2ac0f102c7
 - **Authorization:** Requires `READ_WRITE` or `READ_ONLY` role.
 
 
-
-
-
-(https://raw.githubusercontent.com/Earlymoon/MyProjectImages/refs/heads/master/Authorization.mp4)
+[
+(https://github.com/Earlymoon/MyProjectImages/blob/master/Authorization.mp4)](https://github.com/Earlymoon/MyProjectImages/blob/master/Authorization.mp4)
 
 
 
