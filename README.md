@@ -201,8 +201,9 @@ https://github.com/user-attachments/assets/4c396a62-70ab-4fc4-ba40-7d2ac0f102c7
 
 
 
-https://github.com/user-attachments/assets/434be857-da46-43b2-b030-d0a21f68fa81
 
+
+![Authorization](https://github.com/user-attachments/assets/21e2384b-b160-4105-9f5d-63ccbe2c2f32)
 
 
 
