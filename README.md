@@ -16,18 +16,18 @@ The Kirana Store Backend is designed to manage the transactions of a small groce
 ## Features
 
 - **User Authentication & Authorization:**
-    - Role-based access control (READ_WRITE and READ_ONLY roles).
+    - Role-based access control (`READ_WRITE` and `READ_ONLY` roles).
     - Basic authentication with HTTP Basic Auth.
 - **Transactions Management:**
     - Record, get, update, and delete transactions.
     - Transactions are automatically converted to "INR" if entered in a different currency using an external currency conversion service.
 - **Reporting:**
-    - Generate financial reports (weekly, monthly, yearly).
+    - Generate financial reports (`weekly`, `monthly`, `yearly`).
     - View categorized transactions by debit/credit and get insights like total credits and debits.
 - **API Rate Limiting:**
     - Prevents abuse by limiting the number of requests (10 requests per minute).
 - **Currency Conversion:**
-    - Converts transactions from various currencies to INR before saving.
+    - Converts transactions from various currencies to `INR` before saving.
 
 ## Project Structure
 
