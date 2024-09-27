@@ -7,7 +7,6 @@ The Kirana Store Backend is designed to manage the transactions of a small groce
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
-- [Configuration](#configuration)
 - [API Documentation](#api-documentation)
 - [Security](#security)
 - [How It Works](#how-it-works)
@@ -136,9 +135,6 @@ All API requests require Basic Authentication. Use the following credentials:
   - "You are sending too many requests, wait for some time!"
  
     
-https://github.com/user-attachments/assets/4c396a62-70ab-4fc4-ba40-7d2ac0f102c7
-
-
 
 
 ## Endpoints
@@ -198,8 +194,11 @@ https://github.com/user-attachments/assets/4c396a62-70ab-4fc4-ba40-7d2ac0f102c7
     ```
 
 - **Authorization:** Requires `READ_WRITE` or `READ_ONLY` role.
-[![Watch the video]
-(https://raw.githubusercontent.com/Earlymoon/MyProjectImages/refs/heads/master/Authorization.mp4)
+  
+![UnAuthorized](https://github.com/Earlymoon/MyProjectImages/blob/master/first.png?raw=true)
+
+![Authorized](https://github.com/user-attachments/assets/bbf8a392-2e4b-456b-80a7-af212123d470)
+
 
 
 ---
@@ -361,6 +360,9 @@ Common error responses:
       "error": "You are sending too many requests, wait for some time!"
     }
     ```
+
+  ![Rate Limit](https://github.com/user-attachments/assets/dd349e16-f6a7-499c-a4b9-c8e3d2f7e999)
+
 
 ---
 
