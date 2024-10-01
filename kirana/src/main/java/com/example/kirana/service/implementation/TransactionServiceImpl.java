@@ -44,7 +44,7 @@ public class TransactionServiceImpl extends RuntimeException implements Transact
 
     @Override
     public List<Transaction> getTransactionsByUserId(String userId) {
-        return transactionRepository.findByUserId(userId);  // Assuming you have this method in your repository
+        return transactionRepository.findByUserId(userId);  // Assuming we have this method in our repository
     }
 
 
