@@ -22,7 +22,6 @@ The Kirana Store Backend is designed to manage the transactions of a small groce
     - Transactions are automatically converted to "INR" if entered in a different currency using an external currency conversion service.
 - **Reporting:**
     - Generate financial reports (`weekly`, `monthly`, `yearly`).
-    - View categorized transactions by debit/credit and get insights like total credits and debits.
 - **API Rate Limiting:**
     - Prevents abuse by limiting the number of requests (10 requests per minute).
 - **Currency Conversion:**
